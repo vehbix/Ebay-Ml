@@ -11,18 +11,18 @@ Ebay-ML is a machine learning project aimed at classifying eBay listings to iden
 ## Installation
 
 Clone the repository:
-```bash
+```python
 git clone https://github.com/vehbix/Ebay-Ml.git
 cd Ebay-Ml
 ```
 
 Create a virtual environment:
-```bash
+```python
 python -m venv venv
 source venv/bin/activate (on Windows use: venv\Scripts\activate)
 ```
 Install the required dependencies:
-```bash
+```python
 pip install -r requirements.txt
 ```
 ## Usage
